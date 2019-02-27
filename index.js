@@ -8,3 +8,5 @@ class BoardMember {
   veto() {return "No, I must disagree"}
   //this.prototype.veto = function() {return "No, I must disagree"}
 }
+
+
