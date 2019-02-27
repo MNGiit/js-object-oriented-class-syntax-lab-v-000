@@ -5,6 +5,6 @@ class BoardMember {
     this.training = training;
   }
   
-  veto = function() {return "No, I must disagree"}
+  veto() {return "No, I must disagree"}
   //this.prototype.veto = function() {return "No, I must disagree"}
 }
