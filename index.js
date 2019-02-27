@@ -5,3 +5,5 @@ class BoardMember {
     this.training = training;
   }
 }
+
+
